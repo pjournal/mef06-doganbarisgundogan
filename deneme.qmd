@@ -1,0 +1,6 @@
+---
+title: "deneme"
+editor: visual
+---
+
+Bu bir deneme sayfasıdır.
