@@ -3,7 +3,7 @@
     "path": "~/GitHub/mef06-doganbarisgundogan/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "0",
+    "hash": "2293040497",
     "contents": "",
     "dirty": false,
     "created": 1670878083427.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,0",
+        "cursorPosition": "7,11",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1670880004,
+    "lastKnownWriteTime": 1670880397,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1670880004241,
+    "last_content_update": 1670880397894,
     "read_only": false,
     "read_only_alternatives": []
 }

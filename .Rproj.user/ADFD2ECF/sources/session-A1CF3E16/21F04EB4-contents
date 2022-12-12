@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "[Doğanbarış Gündoğan] Progress Journal"
+  title: "Doğanbarış Gündoğan Progress Journal"
   repo-url: https://github.com/pjournal/gh-pages-quarto-template
   chapters:
     - index.qmd
